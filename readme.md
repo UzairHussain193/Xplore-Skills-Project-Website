@@ -1,5 +1,6 @@
-# 5th Semester Proejct
+# 5th Semester Project
 ### This project is developed to practice git and deveops for software construction and development course.
+
 ## Team Member:
 1. Uzair Hussain - [Profile](https://github.com/uzairhussai193)
 2. Mirza Muhammad Abbas - [Profile](https://github.com/Mirza-Abbas)
