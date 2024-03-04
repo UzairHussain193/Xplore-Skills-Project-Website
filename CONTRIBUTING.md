@@ -34,10 +34,6 @@ Please follow these guidelines when contributing to this repository:
 - By contributing to this repository, you agree to license your contributions under the same license as the repository itself.
 
 ---
-# Some other repos to start your open source journey
-
-Some useful repos to start with [ Check Here](#🌠some-useful-repos🚀)
-
 # Git Commands
 Click to see the git commands you have to learn [Git Cheat Sheet](https://github.com/UzairHussain193/Get_Start_with_Contributions_Uzair_Hussain/blob/master/git_cheat_sheet.md)
 
